@@ -1,0 +1,52 @@
+{
+    "video_id": "reel_001",
+    "vibes": [
+        "Boho",
+        "Bold",
+        "nostalgic"
+    ],
+    "products": [
+        {
+            "type": "Skirt",
+            "color": "Off White",
+            "matched_product_id": "118454",
+            "match_type": "similar",
+            "confidence": 0.791
+        },
+        {
+            "type": "Co-Ord",
+            "color": "Off White",
+            "matched_product_id": "118461",
+            "match_type": "similar",
+            "confidence": 0.74
+        },
+        {
+            "type": "Top",
+            "color": "Navy Blue",
+            "matched_product_id": "97557",
+            "match_type": "similar",
+            "confidence": 0.744
+        },
+        {
+            "type": "Top",
+            "color": "Blue",
+            "matched_product_id": "16527",
+            "match_type": "similar",
+            "confidence": 0.735
+        },
+        {
+            "type": "Dress",
+            "color": "Black",
+            "matched_product_id": "14999",
+            "match_type": "similar",
+            "confidence": 0.785
+        },
+        {
+            "type": "Shirt",
+            "color": "White",
+            "matched_product_id": "118457",
+            "match_type": "similar",
+            "confidence": 0.743
+        }
+    ]
+}

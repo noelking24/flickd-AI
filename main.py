@@ -76,18 +76,6 @@ def detect_on_frames(frame_dir, crop_dir="detections/"):
 
             count+=1
 
-            # detections.append({
-            #     "frame": frame_num,
-            #     "class": class_name,
-            #     "bbox": [x1, y1, w, h],
-            #     "confidence": round(conf, 3),
-            #     "crop_path": crop_filename
-            # })
-
-    # # Save detections as JSON
-    # with open(output_json, "w") as f:
-    #     json.dump(detections, f, indent=2)
-
     print(f"✅ Processed {count} detections.")
 
 def get_match_type(score):
