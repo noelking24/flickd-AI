@@ -4,10 +4,11 @@ matplotlib
 ultralytics
 label-studio
 faiss-cpu
-git+https://github.com/openai/CLIP.git
 pandas
 requests
 pillow
 torchvision
 torch
 scikit-learn
+transformers
+fashion-clip
