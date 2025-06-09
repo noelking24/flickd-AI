@@ -59,16 +59,20 @@ Ensure you also have a corresponding caption file (e.g., `videos/reel_001.txt`) 
 - The final structured output is saved in `outputs/{video_id}.json`
 ```json
 {
-  "video_id": "reel_001",
-  "vibes": ["Boho", "Romantic", "Evening"],
-  "products": [
-    {
-      "type": "Dress",
-      "color": "White",
-      "matched_product_id": "prod_002",
-      "match_type": "exact",
-      "confidence": 0.94
-    }
-  ]
+    "video_id": "reel_002",
+    "vibes": [
+        "Coquette",
+        "attention-grabbing",
+        "Vintage"
+    ],
+    "products": [
+        {
+            "type": "Dress",
+            "color": "White",
+            "matched_product_id": "118458",
+            "match_type": "similar",
+            "confidence": 0.756
+        }
+    ]
 }
 ```

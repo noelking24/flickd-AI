@@ -136,7 +136,7 @@ def classify_vibes(text, num_vibes=3):
 
     return final[:num_vibes]
 
-video_path = "videos/reel_003.mp4" #set your video path here <------
+video_path = "videos/reel_001.mp4" #set your video path here <------
 extract_frames(video_path)
 
 base_name = os.path.basename(video_path)
@@ -194,7 +194,7 @@ vibe_labels = [
 extended_labels = vibe_labels + [
     "Evening", "Romantic", "Retro", "Urban", "Minimalist", "Hyper-feminine",
      "Chic", "Edgy", "Vintage", "Modern", "Formal", "Casual",
-     "attention-grabbing", "Bold", "nostalgic", "Indie Sleaze", "Glamorous",
+     "Bold", "nostalgic", "Indie Sleaze", "Glamorous",
      "Gorpcore", "Mermaidcore", "Dark Academia", "Light Academia", "Fairycore",
 ]
 

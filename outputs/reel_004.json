@@ -1,0 +1,24 @@
+{
+    "video_id": "reel_004",
+    "vibes": [
+        "Boho",
+        "Coquette",
+        "nostalgic"
+    ],
+    "products": [
+        {
+            "type": "Dress",
+            "color": "Red",
+            "matched_product_id": "15324",
+            "match_type": "similar",
+            "confidence": 0.794
+        },
+        {
+            "type": "Dress",
+            "color": "Red",
+            "matched_product_id": "118448",
+            "match_type": "similar",
+            "confidence": 0.791
+        }
+    ]
+}

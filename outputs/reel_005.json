@@ -1,0 +1,17 @@
+{
+    "video_id": "reel_005",
+    "vibes": [
+        "Boho",
+        "Chic",
+        "nostalgic"
+    ],
+    "products": [
+        {
+            "type": "Top",
+            "color": "Beige",
+            "matched_product_id": "15458",
+            "match_type": "similar",
+            "confidence": 0.743
+        }
+    ]
+}

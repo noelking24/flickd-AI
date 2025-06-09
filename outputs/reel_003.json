@@ -1,0 +1,94 @@
+{
+    "video_id": "reel_003",
+    "vibes": [
+        "Coquette",
+        "Vintage",
+        "Bold"
+    ],
+    "products": [
+        {
+            "type": "Top",
+            "color": "Black",
+            "matched_product_id": "116104",
+            "match_type": "similar",
+            "confidence": 0.799
+        },
+        {
+            "type": "Skirt",
+            "color": "Twilight Blue",
+            "matched_product_id": "16468",
+            "match_type": "similar",
+            "confidence": 0.762
+        },
+        {
+            "type": "Top",
+            "color": "Olive",
+            "matched_product_id": "42044",
+            "match_type": "similar",
+            "confidence": 0.788
+        },
+        {
+            "type": "Top",
+            "color": "White",
+            "matched_product_id": "97551",
+            "match_type": "similar",
+            "confidence": 0.814
+        },
+        {
+            "type": "Shirt",
+            "color": "Olive",
+            "matched_product_id": "97547",
+            "match_type": "similar",
+            "confidence": 0.771
+        },
+        {
+            "type": "Top",
+            "color": "White",
+            "matched_product_id": "97549",
+            "match_type": "similar",
+            "confidence": 0.827
+        },
+        {
+            "type": "Dress",
+            "color": "Coral",
+            "matched_product_id": "17229",
+            "match_type": "similar",
+            "confidence": 0.74
+        },
+        {
+            "type": "Dress",
+            "color": "Pink",
+            "matched_product_id": "42041",
+            "match_type": "similar",
+            "confidence": 0.741
+        },
+        {
+            "type": "Shirt",
+            "color": "White",
+            "matched_product_id": "97552",
+            "match_type": "similar",
+            "confidence": 0.808
+        },
+        {
+            "type": "Trouser",
+            "color": "Blue",
+            "matched_product_id": "15282",
+            "match_type": "similar",
+            "confidence": 0.778
+        },
+        {
+            "type": "Trouser",
+            "color": "Navy",
+            "matched_product_id": "15543",
+            "match_type": "similar",
+            "confidence": 0.78
+        },
+        {
+            "type": "Trouser",
+            "color": "Black",
+            "matched_product_id": "118442",
+            "match_type": "similar",
+            "confidence": 0.745
+        }
+    ]
+}
